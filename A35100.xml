@@ -1,0 +1,152 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Oliver Lord Protector of the Commonwealth of England, Scotland, and Ireland, and the dominions and territories thereto belonging to all persons, ministers, lecturers, vicars, and curates ... : whereas the minister and inhabitants of the parish of South-Okenden in our county of Essex ...</title>
+            <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35100</idno>
+            <idno type="STC">Wing C7120</idno>
+            <idno type="STC">ESTC R39612</idno>
+            <idno type="EEBO-CITATION">18451553</idno>
+            <idno type="OCLC">ocm 18451553</idno>
+            <idno type="VID">107695</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35100)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107695)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1631:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Oliver Lord Protector of the Commonwealth of England, Scotland, and Ireland, and the dominions and territories thereto belonging to all persons, ministers, lecturers, vicars, and curates ... : whereas the minister and inhabitants of the parish of South-Okenden in our county of Essex ...</title>
+                  <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+                  <author>Cromwell, Oliver, 1599-1658.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1658]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated in ms. at head of title: 1657/8, 9 March.</note>
+                  <note>Imperfect: cropped, with some loss of print.</note>
+                  <note>Reproduction of original in the Guildhall, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Proclamations --  Great Britain.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660.</term>
+               <term>Great Britain --  Politics and government --  1649-1660.</term>
+               <term>Great Britain --  Church history --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:107695:1" rendition="simple:additions"/>
+            <head>
+               <figure>
+                  <q xml:lang="lat">PAX QVAERITVR BELLO</q>
+                  <q xml:lang="lat">
+                     <gap reason="illegible" extent="7 letters">
+                        <desc>〈7 letters〉</desc>
+                     </gap>VS DEI GRA ◆ REIPVB ◆ ANGLIAE ◆ SCOTIAE ◆ ET HIBERNIAE, &amp;<hi rend="sup">c</hi> PR<gap reason="illegible" extent="7 letters">
+                        <desc>〈7 letters〉</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </q>
+                  <figDesc>seal of the Commonwealth</figDesc>
+               </figure>
+            </head>
+            <opener>
+               <signed>OLIVER Lord Protector of the Commonwealth of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> and the Dominions and Territories thereto belonging,</signed>
+               <salute>To all Parſons, Miniſters, Lecturers, Vicars, and Curates; and alſo to all our Juſtices of the Peace, Majors, Sheriffs, Bailiffs, Conſtables, Church-wardens, Collectors for the Poor, and Head-boroughs; and to all other Officers, Miniſters, and People whatſoever, as well within Liberties as without, to whom theſe preſents ſhall come, <hi>Greeting.</hi>
+               </salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas the Miniſter and Inhabitants of the Pariſh of <hi>South-Okenden</hi> in our County of <hi>Eſſex,</hi> have made their humble Peti<g ref="char:EOLhyphen"/>tion to us, ſetting forth, That by a ſudden and fearful Fire occaſioned by Lightning on the One and twentieth day of <hi>June,</hi> in the year of our Lord One thouſand ſix hundred fifty and two, the Spire of the Steeple of the Pariſh Church of <hi>South-Okenden</hi> aforeſaid was fired, the Bells and Leads thereof totally melted, and the Church conſumed to Aſhes, the Chancel thereof onely excepted, which is thereby alſo much defaced, and that the repairs of the premiſſes will amount to Two thouſand and two hundred pounds at the leaſt: All which was made to appear to our Juſtices of the Peace for the ſaid County, at our General Seſſions of the Peace for the ſaid County, held the Fourteenth day of <hi>July</hi> laſt by ſufficient Teſti<g ref="char:EOLhyphen"/>mony, as by a Certificate thereof from our ſaid Juſtices of the Peace, unto the ſaid Petition annexed, doth fully appear. Which ſaid ſum is ſo vaſte and great, as that the ſaid Inhabitants of the ſaid Pariſh are no way able to expend and diſcharge without the Aid, Aſſiſtance, and Charity of well-diſpoſed perſons, as by the ſaid Certificate of our ſaid Juſtices we are informed and aſſured.</p>
+            <p>And foraſmuch as the ſaid Pariſhioners ever ſince the conſuming of the ſaid Church have been deſtitute of a fit and con<g ref="char:EOLhyphen"/>venient place to meet in by way of a Publick Aſſembly, for the Worſhip and Service of God, and for the good of their Souls, in their attendance on Gods holy Ordinances, and in ſanctifying of the Lords days: For which Heavenly purpoſes that the Publick Meetings of the ſaid Pariſhioners may no longer be obſtructed, but be effectually revived, promoted, and furthered, becauſe our gracious God hath in his holy Word declared, That his love is in a more eſpecial manner towards the Publick Aſſemblies of his People, then to their private Devotions: For therein it is recorded, That the Lord loveth the Gates of <hi>Sion</hi> more then all the dwellings of <hi>Jacob.</hi> We ſeriouſly conſidering the premiſſes, have there<g ref="char:EOLhyphen"/>fore willingly condiſcended unto the humble requeſt of the ſaid Miniſter and Pariſhioners by them made unto us, That we would be graciouſly pleaſed to grant unto them our Letters Patents, whereby they may be enabled to collect the Charities and Benevolence of well-diſpoſed people; we being likewiſe well aſſured, That all good people will be zealouſly affected towards the advancing of this ſo pious a work, and readily extend their helping hands thereunto by their liberal contributions in that behalf.</p>
+            <p>Know ye therefore, That we of our Chriſtian zeal and compaſſion have given and granted, and by theſe our Letters Patents under our great Seal of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> we do give and grant unto the ſaid Miniſter and Inhabitants of the ſaid Pariſh of <hi>South-Okenden</hi> aforeſaid, and to their Deputy and Deputies, the Bearer or Bearers hereof, full Power, Licence, and Authority, to ask, gather, receive, and take the Alms and Charitable Benevolence of all good and well-diſpoſed people inhabiting within our ſeveral Cities of <hi>London</hi> and <hi>Weſtminſter,</hi> and within our Counties of <hi>Middleſex, Eſſex,</hi> and <hi>Suffolk,</hi> and in all Corporate Towns, Villages, and other places within our ſaid Counties, and not elſwhere, for and towards the rebuilding of the ſaid Church.</p>
+            <p>Wherefore we will and command you and every of you, That at ſuch time and times as the ſaid Miniſter and Inhabitants before mentioned, their Deputy or Deputies, the Bearer or Bearers hereof, ſhall come and repair to any of your Churches, Chappels, or other places, to ask and receive the Gratuities and Charitable Benevolence of good and Charitable Chriſtians, quietly to permit and ſuffer them ſo to do, without any manner of your lets or contradictions. And you the ſaid Parſons, Miniſters, Lecturers, Vicars, and Curates, for the better ſtirring up of Charitable Devotions, deliberately to publiſh and declare the Tenor of theſe our Letters Patents, or the true Copy or Brief hereof unto the People upon the Lords day next, after the ſame ſhall be tendred unto you; Exhorting, perſwading, and ſtirring them up to extend their liberal Contributions towards the ſaid pious work. And you the Church-wardens of every Pariſh and Collectors for the Poor, where ſuch Collection is to be made as aforeſaid, together with two other honeſt active men there (nominated by the Miniſter and your ſelves) are hereby willed and required to collect and gather the Alms and Charitable Benevolence of the ſaid Charitable and well-diſpoſed People, not onely Houſholders, but alſo Strangers, Servants, and others. And if you finde it more expedient for an effectual advancement of this pious work, you are hereby required to go from houſe to houſe in your reſpective Pariſhes upon the Week days to gather the Alms of the ſaid good people: And what ſhall be by you ſo gathered in the ſaid Pariſhes or places, the ſame is to be by the Miniſter and your ſelves endorſed on the backſide of theſe our Letters Patents, or the true Copy or Brief hereof in words at length: Which Endorſement is to be ſubſcribed with the hands of you the ſaid Miniſters, Church-wardens, and ſuch in each Pariſh and place as have aſſiſted you in ſuch Collection, and alſo to be Regiſtred in the Books of your reſpective Pariſhes: And the ſum and ſums of money ſo gathered and endorſed to deliver to the Bearer or Bearers of theſe our Letters Patents, warranted and allowed to receive the ſame, and to no other perſon or perſons, when as thereunto you ſhall be by them required; whoſe receiving thereof with their Acquittance or Acquittances ſhall be your ſufficient diſcharge.</p>
+            <p>And laſtly, For the more aſſurance of faithful and equal dealing, in the Receipt, Account, and Diſtribution of the Moneys hereby to be collected, our will and pleaſure is, That no man ſhall be employed to collect any of the Moneys by vertue of theſe our Letters Patents, but ſuch as ſhall be appointed there<g ref="char:EOLhyphen"/>unto by deputation under the Hands and Seals of the ſaid Miniſter, and of the Church-wardens of the ſaid Pariſh of <hi>South-Okenden</hi> aforeſaid, for the time being. And that the Moneys collected and raiſed by virtue hereof, ſhall be by them or by their appointment diſpoſed to the uſe intended, for the rebuilding of the ſaid Church: And they in like manner to appoint in whoſe hands the Moneys ſo collected, ſhall be kept until the ſame ſhall be diſtributed for the ſaid work according to the true intent and meaning of our Chriſtian will and pleaſure herein declared, Any Statute, Law, Ordinance, or Proviſion heretofore made to the contrary in any wiſe notwithſtanding.</p>
+            <p>In witneſs whereof we have cauſed theſe our Letters to be made Patents to continue for the ſpace of one whole year next after the date hereof to endure <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
